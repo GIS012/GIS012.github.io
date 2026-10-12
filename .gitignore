@@ -1,0 +1,10 @@
+# Sample reference folder
+Sample/
+
+# OS and Temp Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
+.idea/
